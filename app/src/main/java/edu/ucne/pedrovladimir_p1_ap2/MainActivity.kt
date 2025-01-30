@@ -20,7 +20,6 @@ class MainActivity : ComponentActivity() {
         setContent {
             PedroVladimir_P1_AP2Theme {
 
-
             }
         }
     }
